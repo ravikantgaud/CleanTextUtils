@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CleanTextUtils/static/css/main.073c9b0a.css",
+    "main.js": "/CleanTextUtils/static/js/main.59b63c38.js",
+    "static/js/787.48e97135.chunk.js": "/CleanTextUtils/static/js/787.48e97135.chunk.js",
+    "index.html": "/CleanTextUtils/index.html",
+    "main.073c9b0a.css.map": "/CleanTextUtils/static/css/main.073c9b0a.css.map",
+    "main.59b63c38.js.map": "/CleanTextUtils/static/js/main.59b63c38.js.map",
+    "787.48e97135.chunk.js.map": "/CleanTextUtils/static/js/787.48e97135.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.59b63c38.js"
+  ]
+}
